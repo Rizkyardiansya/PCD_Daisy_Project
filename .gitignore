@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build & Output (generate otomatis)
+results/
+output/
+documentations/*.csv
+documentations/*.md
+*.tmp
+temp/
+
+# Logs & Cache
+*.log
+*.swp
+*.swo
+*~
+.cache/
+.tmp/
+temp/
+tmp/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+*.lnk
+
+# OS
+.DS_Store
+ehthumbs_vw.jpg
+Desktop.ini
+$RECYCLE.BIN/
+
+# Secrets
+.env
+.env.*
+!.env.example

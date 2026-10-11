@@ -1,0 +1,18 @@
+# Image Processing
+
+opencv-python
+Pillow
+numpy
+
+# Data Visualization
+
+matplotlib
+seaborn
+
+# Data Analysis
+
+pandas
+
+# Image Processing Utilities
+
+scikit-image

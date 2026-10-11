@@ -36,7 +36,7 @@ Pipeline pengolahan citra digital untuk dataset bunga Daisy menggunakan Python. 
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rizkyardiansya/PCD_Daisy_Project.git
 cd PCD_Daisy_Project
 ```
 
